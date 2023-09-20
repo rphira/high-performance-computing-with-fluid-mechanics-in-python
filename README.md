@@ -1,13 +1,13 @@
 # hpc-with-python
 Implementation of the Lattice Boltzmann Method. Includes simulations of streaming, collision, and shear-wave decay; visualizations for Couette and Poiseuille Flow, and a parallelized two-dimensional version of the Sliding Lid experiment performed on the BWUniCluster 2.0
 
-### Shear wave decay
+# Shear wave decay
 Can be run as is
 
-### Couette flow
+# Couette flow
 Can be run as is
 
-### Poiseuille flow
+## Poiseuille flow
 Can be run as is
 
 ### Sliding_lid
